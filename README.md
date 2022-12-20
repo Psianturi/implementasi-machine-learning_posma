@@ -1,4 +1,4 @@
-# Implementasi Machine Learning Pada Deteksi Penyakit Kulit Tropis
+# Machine Learning Implementation On Tropic Skin Disease Detection
 
 <br>
 
